@@ -37,7 +37,7 @@ function result(computer, user) {
   if (computer == user) {
     user = 0;
     computer = 0;
-    document.querySelector(".info .desc p").innerHTML = "";
+    document.querySelector(".info .desc p").innerHTML = "DRAW";
   } else if (computer == "scissors") {
     if (user == "rock") {
       user = 1;
