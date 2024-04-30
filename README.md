@@ -1,4 +1,4 @@
-# rock-paper-scissors-game
+# Rock Paper Scissors Game
 simple implementation of the classic game "rock-paper-scissors" using HTML, CSS, and JavaScript.
 
 # Contact
